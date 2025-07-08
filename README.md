@@ -10,11 +10,10 @@ This application is a multi-user book list manager. It allows multiple users to 
 
 | Directory               | Description                                                                                                                                                  |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|reading-list-front-end|React web frontend with auth handled through Choreo itself.|
-|reading-list-front-end-with-managed-auth|React web frontend with auth handled through Asgardeo (Similar to using any third party IDP).
-|reading-list-service|Backend microservice that handles the application logic|
+|frontend|React web frontend with auth handled through Asgardeo (Similar to using any third party IDP).
+|backend|Backend microservice that handles the application logic|
 
-> NOTE: Frontend and Frontend with managed auth showcase implementing the same frontend using a third party IDP for auth or using the Choreo built in auth implementation.
+> NOTE: Frontend showcase implementing the same frontend using a third party IDP for auth or using the Choreo built in auth implementation.
 
 ## Getting Started
 
