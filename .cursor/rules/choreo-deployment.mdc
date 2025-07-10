@@ -1,3 +1,8 @@
+---
+description: This rule provides comprehensive guidelines for AI agents to deploy 3-tier applications (frontend, backend, database) on the Choreo platform using MCP tools.
+globs: 
+alwaysApply: false
+---
 # Choreo 3-Tier Application Deployment Guide
 
 This rule provides comprehensive guidelines for AI agents to deploy 3-tier applications (frontend, backend, database) on the Choreo platform using MCP tools.
